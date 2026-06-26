@@ -8,7 +8,7 @@ This repository is intended to continue the development of the Blob emojis which
 
 Please note that I did not create most of the emojis. You can find an overview of the changes I made in the file `MODIFIED.md`
 
-Most information on this fork will be included in the [Wiki](https://github.com/C1710/blobmoji/wiki), There you'll find more detailed build instructions and other helpful information on how to use this font and much more.
+Most information on this fork will be included in the [Wiki](https://github.com/VS2A/blobmojis-are-forever/wiki), There you'll find more detailed build instructions and other helpful information on how to use this font and much more.
 
 _[Emojipedia®](https://emojipedia.org) is a registered trademark of Emojipedia Pty Ltd_  
 _Microsoft, Windows are trademarks of the Microsoft group of companies._  
